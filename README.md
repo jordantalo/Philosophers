@@ -101,9 +101,9 @@ Run a simulation that terminates automatically after everyone has eaten at least
 
 ## Ressources
 
-[Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
-[Dining Philosopher Solution using Semaphores](https://www.geeksforgeeks.org/operating-systems/dining-philosopher-problem-using-semaphores/)
-[Philosophers 42 Guide](https://medium.com/@ruinadd/philosophers-42-guide-the-dining-philosophers-problem-893a24bc0fe2)
-[Unix thread in c](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
+* [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
+* [Dining Philosopher Solution using Semaphores](https://www.geeksforgeeks.org/operating-systems/dining-philosopher-problem-using-semaphores/)
+* [Philosophers 42 Guide](https://medium.com/@ruinadd/philosophers-42-guide-the-dining-philosophers-problem-893a24bc0fe2)
+* [Unix thread in c](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
 
 
